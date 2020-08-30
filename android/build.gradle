@@ -1,4 +1,4 @@
-group 'com.dao.voice_app'
+group 'com.example.audio_streams'
 version '1.0-SNAPSHOT'
 
 buildscript {
