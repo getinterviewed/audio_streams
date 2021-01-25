@@ -33,7 +33,7 @@ public class SwiftAudioStreamsPlugin: NSObject, FlutterPlugin, FlutterStreamHand
                                              interleaved: args["interleaved"] as! Bool
                 )
             default:
-                return nil
+                return
             }
         }
         result(nil)
